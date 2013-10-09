@@ -1,4 +1,4 @@
 auto: true
 server: true
 markdown: rdiscount
-permalink: /jekyll-site/:date
+permalink: date
