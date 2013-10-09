@@ -1,5 +1,5 @@
 auto: true
 server: true
 markdown: rdiscount
-baseurl: /jekyll-site/
-permalink: /jekyll-site/date
+baseurl: http://petrosh.github.io/jekyll-site/
+permalink: date
