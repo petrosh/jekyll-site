@@ -1,5 +1,5 @@
 auto: true
-server: true
+url: http://petrosh.github.io/jekyll-site/
 markdown: rdiscount
-baseurl: http://petrosh.github.io/jekyll-site/
 permalink: date
+relative_permalinks: true
