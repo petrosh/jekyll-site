@@ -1,4 +1,3 @@
 auto: true
 markdown: rdiscount
-permalink: /petrosh.github.io/jekyll-site/:year/:month/:day/:title.html
-relative_permalinks: true
+permalink: /jekyll-site/:year/:month/:day/:title.html
