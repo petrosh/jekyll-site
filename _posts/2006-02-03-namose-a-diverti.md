@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Placeholder post
+title: Namose a divertì
 ---
 
 **{{ page.title }}**
