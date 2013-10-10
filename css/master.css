@@ -1,0 +1,22 @@
+/* links */
+
+a:link, a:visited { color: blue; }
+a:hover, a:active { color: red;}
+a.active { text-decoration: none;}
+
+/* 	alternate colors */
+
+.odd { color: #222; }
+.even { color: #555; }
+
+/**
+ * MENU SECTION
+ *
+ */
+
+body > header h1, body > header nav {
+	display: inline-block;
+}
+nav li {
+	display: inline-block;	margin-right: 10px;
+}

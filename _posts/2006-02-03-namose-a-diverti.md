@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Namose a divertì
+category: folk
 ---
-
-**{{ page.title }}**
 
 evvai!
 
