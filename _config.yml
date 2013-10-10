@@ -1,3 +1,4 @@
 auto: true
 markdown: rdiscount
-permalink: /jekyll-site/:year/:month/:day/:title.html
+baseurl: /jekyll-site
+permalink: date
